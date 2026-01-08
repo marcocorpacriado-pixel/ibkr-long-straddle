@@ -43,6 +43,8 @@ The main goals of this project are:
 - Delta hedging neutralizes directional risk and produces near-zero expected P&L under Black–Scholes assumptions.
 - Execution delays increase entry price uncertainty and worsen downside tail outcomes.
 - Legging risk is an operational risk distinct from market risk and materially affects multi-leg option strategies.
+- Increasing delta-hedging frequency reduces residual risk under frictionless assumptions, but in practice this benefit must be balanced against transaction costs.
+
 
 ---
 
